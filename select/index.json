@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Last latter (Remix)",
+  "base_artist": "yuno",
+  "createdAt": "2026-02-14T05:21:37.459762Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last latter (Remix)",
+      "artist": "yuno",
+      "has_synced": false,
+      "path": "select/pl_01_Last_latter_(Remix)_yuno.txt"
+    }
+  ]
+}
